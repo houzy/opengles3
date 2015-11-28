@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/houzy/opengl/opengles3/gles3jni/app/build/intermediates/res/merged/all/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/houzy/opengl/opengles3/gles3jni/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 851,
+                        "endColumn": 54,
+                        "endOffset": 901
+                    }
+                }
+            }
+        ]
+    }
+]
